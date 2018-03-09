@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/lab5/app/controllers/ShoppingCtrl.java:97:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable p[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.ShoppingCtrl[0m
+[0m[[0m[31merror[0m] [0m[0m        if(p.getStock() >= 1){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/lab5/app/controllers/ShoppingCtrl.java:119:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable p[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.ShoppingCtrl[0m
+[0m[[0m[31merror[0m] [0m[0m        if(p.getStock() >= 1){[0m
